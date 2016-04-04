@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name        Narrow browser
+// @name        Narrow Browser
 // @namespace   http://boris.joff3.com
 // @description Remove horizontal scrolling by setting max-width on scripts
 // @include     *
 // @exclude     *.newegg.com/*
 // @exclude     *.wunderground.com/*
 // @exclude     *.github.com/*
-// @version     1.1.2
+// @version     1.1.3
 // @author      borisjoffe
 // @run-at      document-start
 // @grant       none

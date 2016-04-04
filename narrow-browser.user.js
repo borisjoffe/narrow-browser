@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Max Width
+// @name        Narrow browser
 // @namespace   http://boris.joff3.com
 // @description Remove horizontal scrolling by setting max-width on scripts
 // @include     *

@@ -3,10 +3,10 @@
 // @namespace   http://boris.joff3.com
 // @description Remove horizontal scrolling by setting max-width on scripts
 // @include     *
-// @exclude     *.newegg.com/*
-// @exclude     *.wunderground.com/*
-// @exclude     *.github.com/*
-// @version     1.1.3
+// @exclude     https://*.newegg.com/*
+// @exclude     https://*.wunderground.com/*
+// @exclude     https://github.com/*
+// @version     1.1.4
 // @author      borisjoffe
 // @run-at      document-start
 // @grant       none

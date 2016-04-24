@@ -4,9 +4,10 @@
 // @description Remove horizontal scrolling by setting max-width on scripts
 // @include     *
 // @exclude     https://*.newegg.com/*
+// @exclude     http://*.newegg.com/*
 // @exclude     https://*.wunderground.com/*
 // @exclude     https://github.com/*
-// @version     1.1.4
+// @version     1.1.5
 // @author      borisjoffe
 // @run-at      document-start
 // @grant       none

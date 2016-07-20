@@ -3,11 +3,23 @@
 // @namespace   http://boris.joff3.com
 // @description Remove horizontal scrolling by setting max-width on scripts
 // @include     *
+//
+// @exclude     *.pdf
+// @exclude     https://mail.google.com/*
+// @exclude     https://docs.google.com/spreadsheets/*
+// @exclude     https://calendar.google.com/*
+// @exclude     https://hangouts.google.com/*
 // @exclude     https://*.newegg.com/*
 // @exclude     http://*.newegg.com/*
 // @exclude     https://*.wunderground.com/*
-// @exclude     https://github.com/*
-// @version     1.1.5
+// @exclude     https://www.rottentomatoes.com/*
+// @exclude     https://www.ticktick.com/*
+// @exclude     https://join.me/*
+// @exclude     http://www.cryptocoincharts.info/*
+// @exclude     http://caniuse.com/*
+// @exclude     http://phantomjs.org/*
+//
+// @version     1.1.6
 // @author      borisjoffe
 // @run-at      document-start
 // @grant       none

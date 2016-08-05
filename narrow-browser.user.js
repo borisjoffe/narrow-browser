@@ -5,6 +5,7 @@
 // @include     *
 //
 // @exclude     *.pdf
+// @exclude     https://www.youtube.com/*
 // @exclude     https://mail.google.com/*
 // @exclude     https://docs.google.com/spreadsheets/*
 // @exclude     https://calendar.google.com/*
